@@ -1,5 +1,5 @@
 ## Hi there 👋
-kkk
+### Knowledge in: Python,Java,C and Javascript.
 <!--
 **DaniAyash/DaniAyash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
