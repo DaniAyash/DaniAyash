@@ -31,5 +31,4 @@
 </div>
 
 ###
-
-ma kore?
+My skills
