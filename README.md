@@ -31,4 +31,3 @@
 </div>
 
 ###
-My skills
