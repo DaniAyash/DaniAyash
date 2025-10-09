@@ -31,5 +31,3 @@
 </div>
 
 ###
-fjdsjfgfd vfdfv grergrt
-gdfgfdg daniel,.
