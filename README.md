@@ -31,6 +31,3 @@
 </div>
 
 ###
-sfdf dwqw fwefwre
-djjjsdf
-daisfhjsd dfff
