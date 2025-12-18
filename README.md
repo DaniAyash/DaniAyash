@@ -31,5 +31,3 @@
 </div>
 
 ###
-Contact freely on emial and linkedin
-dfsfd fdsf
