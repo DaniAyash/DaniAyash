@@ -31,3 +31,4 @@
 </div>
 
 ###
+Contact me freely on my social platforms
