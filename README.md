@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" height="180" alt="languages" />
-</div>
-
 <h3 align="left">Coding Languages, Frameworks and tools that i use and work with :</h3>
 
 ###
@@ -36,3 +31,4 @@
 </div>
 
 ###
+![](https://komarev.com/ghpvc/?username=YourUsername&style=flat-square&label=Profile+Views)
