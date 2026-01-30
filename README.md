@@ -1,5 +1,4 @@
 <h3 align="left">Coding Languages, Frameworks and tools that i use and work with :</h3>
-
 ###
 
 <div align="left">
@@ -29,7 +28,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
-
 
 ###
 ![](https://komarev.com/ghpvc/?username=DaniAyash&style=flat-square&label=Profile+Views)
