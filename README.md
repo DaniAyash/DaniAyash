@@ -32,5 +32,3 @@
 
 ###
 ![](https://komarev.com/ghpvc/?username=DaniAyash&style=flat-square&label=Profile+Views)
-dfsfdf
-fdgdfg
